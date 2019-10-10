@@ -7,42 +7,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: TEST
-    tagline: TEST
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yuqi Wang (王宇奇)
+    tagline: A master student in CSE at EPFL
+    avatar:  photo.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: yqrickw@gmail.com / yuqi.wang@epfl.ch
+    phone: +41 078 680 4555
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: Yuqi Wang
+    github: yqrickw9
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: C2 (TOEFL: 109(29/28/24/28))
+
+      - idiom: Chinese
         level: Native
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: A1-A2 (still progessing)
 
     interests:
-      - item: Climbing
+      - item: Taekwoodo
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
