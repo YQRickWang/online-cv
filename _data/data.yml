@@ -26,13 +26,13 @@ sidebar:
 
     languages:
       - idiom: English
-        level: C2 (TOEFL: 109(29/28/24/28))
+        level: C2
 
       - idiom: Chinese
         level: Native
 
       - idiom: French
-        level: A1-A2 (still progessing)
+        level: A1-A2
 
     interests:
       - item: Taekwoodo
@@ -51,9 +51,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computational Science and Engineering
+      university: EPFL (École Polytechnique Fédérale de Lausanne)
+      time: 2019.09 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +64,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BEng in Civil Engineering
+      university: Zhejiang University
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
