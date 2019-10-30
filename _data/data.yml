@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: yqrickw@gmail.com / yuqi.wang@epfl.ch
     phone: +41 078 680 4555
-    website: blog.webjeda.com #do not add http://
+    website: http://yqrickwang.github.io #do not add http://
     linkedin: Yuqi Wang
     github: yqrickw9
     gitlab:
@@ -42,13 +42,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am trying to start my career as a scientist on scientific computing
+      and data science.
 
 education:
     - degree: MSc in Computational Science and Engineering
@@ -68,14 +63,10 @@ education:
       university: Zhejiang University
       time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Focus on computer simulations on engineering problems, building information modelling and etc.
 
-          - Bullet point
-          - Bullet point
+          - GPA: 3.93/4.00 (Top 5%)
+          - Award: Outstanding Graduates, First Class Academic Performance Award (5%), Zhejiang Province Award (5%)
 
 experiences:
     - role: Lead Developer
